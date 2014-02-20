@@ -1,0 +1,56 @@
+2/20
+Tasks to do:
+
+1st task - research what agile and scrum (every 2 weeks something functional) is
+
+2nd task - mock up screen shots what the app might look like
+			What you need db? parser?
+
+	GIT hub account - https://github.com/bchan8/cs499
+
+what is a sprint(details)? 2/20
+
+
+Agile development
+
+Iterative and incremental development. It promotes adaptive planning, evolutionary development and delivery, a time-boxed iterative approach, and encourages rapid and flexible response to change.
+
+Scrum
+
+Scrum is an iterative and incremental Agile software development framework for managing software projects and product or application development.
+
+Each day during the sprint, a project team communication meeting occurs. This is called a Daily Scrum:
+
+- All members of the development team come prepared with the updates for the meeting.
+- The meeting starts precisely on time even if some development team members are missing.
+- The meeting should happen at the same location and same time every day.
+- The meeting length is set (timeboxed) to 15 minutes.
+- All are welcome, but normally only the core roles speak.
+
+During the meeting, each team member answers three questions:
+
+- What have you done since yesterday?
+- What are you planning to do today?
+- Any impediments? stuck?
+
+Sprint
+
+A sprint is a get-together of people involved in a project to give a focused development on the project. Sprints are typically two to seven days long.
+Sprints can vary in focus. During some sprints people new to the project are welcomed and get an intensive hands-on introduction pairing with an experienced project member. The first part of such sprints is usually spent getting ready, presenting the tutorials, getting the network setup and ensuring that configuration/source control software and processes are installed and followed.
+A significant benefit of sprinting is that the project members meet in person, socialize, and start to communicate more effectively than when working together remotely.
+
+End meetings
+
+At the end of a sprint cycle, two meetings are held: the "Sprint Review Meeting" and the "Sprint Retrospective".
+- At the Sprint Review Meeting:
+- Review the work that was completed and the planned work that was not completed
+- Present the completed work to the stakeholders (a.k.a. "the demo")
+- Incomplete work cannot be demonstrated
+- Four-hour time limit
+
+At the Sprint Retrospective:
+- All team members reflect on the past sprint
+- Make continuous process improvements
+- Two main questions are asked in the sprint retrospective: What went well during the sprint? What could be improved in the next sprint?
+- Three-hour time limit
+- This meeting is facilitated by the Scrum Master
