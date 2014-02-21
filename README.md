@@ -1,3 +1,3 @@
 cs499
 =====
-Senior Thesis Project with Spot Trading
+Senior Thesis Project
