@@ -6,116 +6,32 @@
 <link rel="stylesheet" href="css/bootstrap.css" />
 </head>
 <body>
-	<div class="container">
-		<?php include 'nav.php'?>
-		<h1>Stock 1</h1>
-		<div class="row">
-			<div class="col-lg-12">
-				<img src="stock1.jpg" width="900px">
-			</div>
-		</div>
-		<br>
-		<div class="row">
-			<div class="col-lg-4">
-				<div class="panel panel-default">
-					<div class="panel-heading">Dividend Forecast For Date: mm/dd/yyyy</div>
-					<div class="panel-body">Data</div>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-lg-8">
-				<div class="page-header">
-					<h1 id="analyst1">Analyst 1</h1>
-				</div>
+<div class="container">
+<?php
 
-				<div class="bs-example table-responsive">
-					<table class="table table-striped table-bordered table-hover">
-						<thead>
-							<tr>
-								<th>Date</th>
-								<th>Dividend Forecast</th>
-								<th>Data</th>
-								<th>Data</th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr>
-								<td>01/01/2014</td>
-								<td>content</td>
-								<td>content</td>
-								<td>content</td>
-							</tr>
-							<tr>
-								<td>02/01/2014</td>
-								<td>content</td>
-								<td>content</td>
-								<td>content</td>
-							</tr>
-							<tr>
-								<td>03/01/2014</td>
-								<td>content</td>
-								<td>content</td>
-								<td>content</td>
-							</tr>
-							<tr>
-								<td>04/01/2014</td>
-								<td>content</td>
-								<td>content</td>
-								<td>content</td>
-							</tr>
-						</tbody>
-					</table>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-lg-8">
-				<div class="page-header">
-					<h1 id="analyst2">Analyst 2</h1>
-				</div>
+$symbol = $_POST['input_stock'];
+$symbol = strtoupper($symbol);
+echo '<h1>';
+echo $symbol;
+echo '</h1>';
+$filename = 'data/nasdaq.xml';
+if(file_exists($filename)){
+	$stocks = simplexml_load_file($filename);
+}
+else {
+	exit('Failed to open '.$filename);
+}
 
-				<div class="bs-example table-responsive">
-					<table class="table table-striped table-bordered table-hover">
-						<thead>
-							<tr>
-								<th>Date</th>
-								<th>Dividend Forecast</th>
-								<th>Data</th>
-								<th>Data</th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr>
-								<td>01/01/2014</td>
-								<td>content</td>
-								<td>content</td>
-								<td>content</td>
-							</tr>
-							<tr>
-								<td>02/01/2014</td>
-								<td>content</td>
-								<td>content</td>
-								<td>content</td>
-							</tr>
-							<tr>
-								<td>03/01/2014</td>
-								<td>content</td>
-								<td>content</td>
-								<td>content</td>
-							</tr>
-							<tr>
-								<td>04/01/2014</td>
-								<td>content</td>
-								<td>content</td>
-								<td>content</td>
-							</tr>
-						</tbody>
-					</table>
-				</div>
-			</div>
-		</div>
-	</div>
+foreach($stocks as $stockinfo):
+	if(strcmp($symbol, $stockinfo['Symbol']) == 0){
+		echo '<h1>';
+		echo $stockinfo->Security_Name;
+		echo '</h1>';
+		echo'<div class="page-header" id="banner">';
+	}
+endforeach
 
+?>
+</div>
 </body>
 </html>

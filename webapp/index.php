@@ -11,32 +11,39 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="well">
-					<form class="bs-example form-horizontal">
+					<form class="bs-example form-horizontal" action="stock.php" method="post">
 						<fieldset>
-							<legend>Select a stock</legend>
+							<legend>Enter stock symbol</legend>
 							<div class="form-group">
 								<label for="select" class="col-lg-2 control-label">Stocks</label>
-								<div class="col-lg-10">
-									<select size="6" class="form-control">
-										<option>Stock 1</option>
-										<option>Stock 2</option>
-										<option>Stock 3</option>
-										<option>Stock 4</option>
-										<option>Stock 5</option>
-									</select>
+								<div class="col-lg-5">
+									<input type="text" class="form-control input-sm" name="input_stock"
+										placeholder="e.g. MSFT" maxlength="10">
 								</div>
 							</div>
 							<div class="form-group">
-								<label for="input_date" class="col-lg-2 control-label">Date</label>
+								<label for="input_date" class="col-lg-2 control-label">Options</label>
 								<div class="col-lg-3">
-									<input type="text" class="form-control input-sm" id="input_date"
-										placeholder="mm/dd/yyyy" maxlength="10">
+<!-- 									<input type="text" class="form-control input-sm" id="input_date" -->
+<!-- 										placeholder="mm/dd/yyyy" maxlength="10"> -->
+									<div class="checkbox">
+										<label> <input type="checkbox"> All historical dividends
+										</label>
+									</div>
+									<div class="checkbox">
+										<label> <input type="checkbox"> Checkbox
+										</label>
+									</div>
+									<div class="checkbox">
+										<label> <input type="checkbox"> Checkbox
+										</label>
+									</div>
 								</div>
 							</div>
 								<div class="form-group">
 									<div class="col-lg-10 col-lg-offset-2">
 										<button class="btn btn-default">Cancel</button>
-										<button type="submit" class="btn btn-primary">Submit</button>
+										<input type="submit" class="btn btn-primary">
 									</div>
 								</div>
 						
