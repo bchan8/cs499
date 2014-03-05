@@ -57,5 +57,35 @@ At the Sprint Retrospective:
 
 
 Questions to ask:
+
 Files recieved from a socket or pipe (where am I recieving the data from?)
+
+How often will it update the data?
+
+What is data input format?
+
+How will data be stored?
+
+
+Notes:
+
+Remove spots name from the project
+
+No pull down - several hundred stocks
+
+At end of each week, something is deliverable 
+
+Ex dividend date/Payment date important
+
+Find publicly available sources for dividends
+
+user story - agile
+
+access each story, come up with a way of doing it (also estimation)
+
+through out the week ask for feedback
+
+
+sprint planning
+
 
