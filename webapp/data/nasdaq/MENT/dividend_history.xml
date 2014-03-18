@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<stock source="yahoo finance">
+  <exchange market="nasdaq">
+    <dividend_date date="2014-03-06">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-12-06">
+      <price>0.045000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-09-06">
+      <price>0.045000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-06-06">
+      <price>0.045000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-03-20">
+      <price>0.045000
+</price>
+    </dividend_date>
+    <dividend_date date="1993-07-26">
+      <price>0.060000
+</price>
+    </dividend_date>
+    <dividend_date date="1993-04-26">
+      <price>0.060000
+</price>
+    </dividend_date>
+    <dividend_date date="1993-02-08">
+      <price>0.060000
+</price>
+    </dividend_date>
+    <dividend_date date="1992-10-26">
+      <price>0.060000
+</price>
+    </dividend_date>
+    <dividend_date date="1992-07-27">
+      <price>0.060000
+</price>
+    </dividend_date>
+    <dividend_date date="1992-04-27">
+      <price>0.060000
+</price>
+    </dividend_date>
+    <dividend_date date="1992-02-10">
+      <price>0.060000
+</price>
+    </dividend_date>
+    <dividend_date date="1991-04-22">
+      <price>0.060000
+</price>
+    </dividend_date>
+    <dividend_date date="1990-07-23">
+      <price>0.060000
+</price>
+    </dividend_date>
+  </exchange>
+</stock>

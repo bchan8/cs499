@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<stock source="yahoo finance">
+  <exchange market="nasdaq">
+    <dividend_date date="2012-05-15">
+      <price>0.032000
+</price>
+    </dividend_date>
+    <dividend_date date="2011-05-11">
+      <price>0.049000
+</price>
+    </dividend_date>
+    <dividend_date date="2004-05-26">
+      <price>0.030000
+</price>
+    </dividend_date>
+    <dividend_date date="2001-03-27">
+      <price>0.297000
+</price>
+    </dividend_date>
+  </exchange>
+</stock>

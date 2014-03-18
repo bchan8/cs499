@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<stock source="yahoo finance">
+  <exchange market="nasdaq">
+    <dividend_date date="2010-02-10">
+      <price>0.040000
+</price>
+    </dividend_date>
+    <dividend_date date="2009-11-10">
+      <price>0.040000
+</price>
+    </dividend_date>
+    <dividend_date date="2009-08-06">
+      <price>0.040000
+</price>
+    </dividend_date>
+    <dividend_date date="2009-05-14">
+      <price>0.040000
+</price>
+    </dividend_date>
+    <dividend_date date="2009-02-10">
+      <price>0.040000
+</price>
+    </dividend_date>
+    <dividend_date date="2008-11-12">
+      <price>0.040000
+</price>
+    </dividend_date>
+    <dividend_date date="2008-08-13">
+      <price>0.040000
+</price>
+    </dividend_date>
+  </exchange>
+</stock>

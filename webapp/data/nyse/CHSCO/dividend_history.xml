@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<stock source="yahoo finance">
+  <exchange market="nyse">
+    <dividend_date date="2013-12-12">
+      <price>0.492000
+</price>
+    </dividend_date>
+  </exchange>
+</stock>

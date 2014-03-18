@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<stock source="yahoo finance">
+  <exchange market="nyse">
+    <dividend_date date="1998-09-10">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1998-05-13">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1998-03-04">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1995-11-21">
+      <price>0.000000
+</price>
+    </dividend_date>
+    <dividend_date date="1994-11-21">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1994-08-23">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1994-05-12">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1994-02-22">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1993-11-22">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1993-08-24">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1993-05-17">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1993-02-26">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1992-11-19">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1992-08-28">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1992-05-08">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1992-03-09">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1991-11-21">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1991-08-23">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="1991-05-10">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="1991-02-25">
+      <price>0.170000
+</price>
+    </dividend_date>
+    <dividend_date date="1990-11-16">
+      <price>0.170000
+</price>
+    </dividend_date>
+    <dividend_date date="1990-08-20">
+      <price>0.170000
+</price>
+    </dividend_date>
+    <dividend_date date="1990-05-10">
+      <price>0.170000
+</price>
+    </dividend_date>
+  </exchange>
+</stock>

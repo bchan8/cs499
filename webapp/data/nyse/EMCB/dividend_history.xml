@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<stock source="yahoo finance">
+  <exchange market="nyse">
+    <dividend_date date="2014-01-27">
+      <price>0.305000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-12-24">
+      <price>0.787000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-11-22">
+      <price>0.300000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-10-21">
+      <price>0.300000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-09-23">
+      <price>0.300000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-08-26">
+      <price>0.267000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-07-22">
+      <price>0.267000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-06-24">
+      <price>0.267000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-05-24">
+      <price>0.267000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-04-22">
+      <price>0.267000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-03-22">
+      <price>0.267000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-02-19">
+      <price>0.267000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-01-22">
+      <price>0.270000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-12-24">
+      <price>0.264000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-11-26">
+      <price>0.270000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-10-22">
+      <price>0.285000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-09-24">
+      <price>0.300000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-08-27">
+      <price>0.314000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-07-23">
+      <price>0.314000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-06-25">
+      <price>0.314000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-05-21">
+      <price>0.314000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-04-23">
+      <price>0.314000
+</price>
+    </dividend_date>
+  </exchange>
+</stock>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<stock source="yahoo finance">
+  <exchange market="nasdaq">
+    <dividend_date date="2014-02-04">
+      <price>0.523000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-10-31">
+      <price>0.522000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-08-01">
+      <price>0.515000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-05-07">
+      <price>0.515000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-01-30">
+      <price>0.500000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-10-31">
+      <price>0.475000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-08-01">
+      <price>0.440000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-05-07">
+      <price>0.430000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-02-08">
+      <price>0.430000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-02-07">
+      <price>0.430000
+</price>
+    </dividend_date>
+    <dividend_date date="2011-11-03">
+      <price>0.400000
+</price>
+    </dividend_date>
+    <dividend_date date="2011-08-03">
+      <price>0.385000
+</price>
+    </dividend_date>
+  </exchange>
+</stock>

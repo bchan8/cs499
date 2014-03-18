@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='utf-8'?>
+<stock source="yahoo finance">
+  <exchange market="nyse">
+    <dividend_date date="2005-03-24">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2004-12-23">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2004-09-24">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2004-06-25">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2004-03-26">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2004-01-07">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2003-09-19">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2003-06-19">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2003-03-20">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2003-01-07">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2002-09-20">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2002-06-21">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2002-03-21">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2001-12-31">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2001-09-21">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2001-06-22">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2001-03-22">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2001-01-02">
+      <price>0.006500
+</price>
+    </dividend_date>
+    <dividend_date date="2000-09-28">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="2000-06-30">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="2000-03-23">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1999-12-23">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1999-09-24">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1999-06-29">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1999-03-29">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1998-12-23">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1998-09-21">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1998-07-01">
+      <price>0.002250
+</price>
+    </dividend_date>
+    <dividend_date date="1998-04-01">
+      <price>0.002250
+</price>
+    </dividend_date>
+    <dividend_date date="1997-12-30">
+      <price>0.002250
+</price>
+    </dividend_date>
+    <dividend_date date="1997-09-29">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1997-07-29">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1997-07-02">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1997-03-27">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1997-01-14">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1996-09-30">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1996-07-03">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1996-04-02">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1996-01-17">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1995-10-04">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1995-07-05">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1995-03-31">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1995-01-12">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1994-09-29">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1994-06-30">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1994-03-28">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1994-01-21">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1993-10-01">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1993-06-23">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1993-03-26">
+      <price>0.006250
+</price>
+    </dividend_date>
+    <dividend_date date="1993-01-19">
+      <price>0.005000
+</price>
+    </dividend_date>
+    <dividend_date date="1992-09-24">
+      <price>0.005000
+</price>
+    </dividend_date>
+    <dividend_date date="1992-06-23">
+      <price>0.005000
+</price>
+    </dividend_date>
+    <dividend_date date="1992-03-23">
+      <price>0.005000
+</price>
+    </dividend_date>
+    <dividend_date date="1992-01-09">
+      <price>0.005000
+</price>
+    </dividend_date>
+    <dividend_date date="1991-09-25">
+      <price>0.005000
+</price>
+    </dividend_date>
+    <dividend_date date="1991-06-26">
+      <price>0.005000
+</price>
+    </dividend_date>
+    <dividend_date date="1991-03-22">
+      <price>0.005000
+</price>
+    </dividend_date>
+    <dividend_date date="1990-07-02">
+      <price>0.003750
+</price>
+    </dividend_date>
+    <dividend_date date="1990-03-26">
+      <price>0.003750
+</price>
+    </dividend_date>
+  </exchange>
+</stock>

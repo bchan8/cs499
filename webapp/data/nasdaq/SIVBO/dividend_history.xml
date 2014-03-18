@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<stock source="yahoo finance">
+  <exchange market="nasdaq">
+    <dividend_date date="2013-12-27">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-09-26">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-07-02">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-03-26">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-12-27">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-09-26">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-06-27">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-03-28">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2011-12-28">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2011-09-28">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2011-06-28">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2011-03-29">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2010-12-29">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2010-09-28">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2010-06-28">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2010-03-29">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2009-12-29">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2009-09-28">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2009-06-26">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2009-03-27">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2008-12-29">
+      <price>0.438000
+</price>
+    </dividend_date>
+    <dividend_date date="2008-09-26">
+      <price>0.438000
+</price>
+    </dividend_date>
+  </exchange>
+</stock>

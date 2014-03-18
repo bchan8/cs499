@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<stock source="yahoo finance">
+  <exchange market="nyse">
+    <dividend_date date="1995-03-01">
+      <price>0.020000
+</price>
+    </dividend_date>
+    <dividend_date date="1994-12-01">
+      <price>0.020000
+</price>
+    </dividend_date>
+    <dividend_date date="1994-08-30">
+      <price>0.020000
+</price>
+    </dividend_date>
+    <dividend_date date="1994-05-27">
+      <price>0.020000
+</price>
+    </dividend_date>
+    <dividend_date date="1994-02-25">
+      <price>0.020000
+</price>
+    </dividend_date>
+    <dividend_date date="1993-11-29">
+      <price>0.020000
+</price>
+    </dividend_date>
+    <dividend_date date="1993-08-30">
+      <price>0.020000
+</price>
+    </dividend_date>
+    <dividend_date date="1993-05-28">
+      <price>0.023000
+</price>
+    </dividend_date>
+  </exchange>
+</stock>

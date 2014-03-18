@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<stock source="yahoo finance">
+  <exchange market="nasdaq">
+    <dividend_date date="1992-05-12">
+      <price>0.003750
+</price>
+    </dividend_date>
+    <dividend_date date="1991-09-10">
+      <price>0.003750
+</price>
+    </dividend_date>
+    <dividend_date date="1990-08-13">
+      <price>0.003750
+</price>
+    </dividend_date>
+  </exchange>
+</stock>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<stock source="yahoo finance">
+  <exchange market="nasdaq">
+    <dividend_date date="2012-12-20">
+      <price>0.200000
+</price>
+    </dividend_date>
+    <dividend_date date="2007-10-29">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="2007-05-25">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="2006-10-27">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="2006-04-26">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="2005-10-27">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="2005-04-27">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="2004-10-27">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="2004-04-28">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="2003-10-29">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="2003-04-28">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="2002-10-29">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="2002-04-26">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="2001-10-29">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="2001-04-26">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="2000-10-27">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="2000-04-26">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="1999-10-27">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="1999-04-28">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1998-10-28">
+      <price>0.050000
+</price>
+    </dividend_date>
+    <dividend_date date="1998-04-28">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="1997-10-29">
+      <price>0.100000
+</price>
+    </dividend_date>
+  </exchange>
+</stock>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<stock source="yahoo finance">
+  <exchange market="nasdaq">
+    <dividend_date date="2013-11-18">
+      <price>0.405000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-11-27">
+      <price>0.504000
+</price>
+    </dividend_date>
+    <dividend_date date="2011-11-22">
+      <price>0.301000
+</price>
+    </dividend_date>
+    <dividend_date date="2011-01-06">
+      <price>0.350000
+</price>
+    </dividend_date>
+    <dividend_date date="2009-12-01">
+      <price>0.318000
+</price>
+    </dividend_date>
+    <dividend_date date="2008-11-05">
+      <price>0.112060
+</price>
+    </dividend_date>
+    <dividend_date date="2007-10-18">
+      <price>0.078820
+</price>
+    </dividend_date>
+    <dividend_date date="2006-11-24">
+      <price>0.076920
+</price>
+    </dividend_date>
+    <dividend_date date="2005-12-19">
+      <price>0.187080
+</price>
+    </dividend_date>
+    <dividend_date date="2004-11-12">
+      <price>0.063630
+</price>
+    </dividend_date>
+    <dividend_date date="2003-11-25">
+      <price>0.039890
+</price>
+    </dividend_date>
+    <dividend_date date="2001-11-15">
+      <price>0.288700
+</price>
+    </dividend_date>
+    <dividend_date date="2000-11-20">
+      <price>0.102560
+</price>
+    </dividend_date>
+    <dividend_date date="1999-11-24">
+      <price>0.872740
+</price>
+    </dividend_date>
+  </exchange>
+</stock>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<stock source="yahoo finance">
+  <exchange market="nyse">
+    <dividend_date date="2013-06-05">
+      <price>0.300000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-06-06">
+      <price>0.250000
+</price>
+    </dividend_date>
+    <dividend_date date="2011-06-01">
+      <price>0.250000
+</price>
+    </dividend_date>
+    <dividend_date date="2010-06-02">
+      <price>0.330000
+</price>
+    </dividend_date>
+    <dividend_date date="2009-06-03">
+      <price>0.330000
+</price>
+    </dividend_date>
+    <dividend_date date="2008-06-04">
+      <price>0.300000
+</price>
+    </dividend_date>
+    <dividend_date date="2007-06-06">
+      <price>0.250000
+</price>
+    </dividend_date>
+    <dividend_date date="2006-06-07">
+      <price>0.250000
+</price>
+    </dividend_date>
+    <dividend_date date="2005-06-08">
+      <price>0.250000
+</price>
+    </dividend_date>
+    <dividend_date date="2004-06-09">
+      <price>0.200000
+</price>
+    </dividend_date>
+    <dividend_date date="2003-06-03">
+      <price>0.000000
+</price>
+    </dividend_date>
+    <dividend_date date="2002-06-03">
+      <price>0.120000
+</price>
+    </dividend_date>
+    <dividend_date date="2001-05-24">
+      <price>0.150000
+</price>
+    </dividend_date>
+    <dividend_date date="2000-05-24">
+      <price>0.100000
+</price>
+    </dividend_date>
+    <dividend_date date="2000-05-12">
+      <price>0.080000
+</price>
+    </dividend_date>
+    <dividend_date date="1999-05-12">
+      <price>0.020000
+</price>
+    </dividend_date>
+    <dividend_date date="1998-05-13">
+      <price>0.035000
+</price>
+    </dividend_date>
+    <dividend_date date="1997-05-29">
+      <price>0.025000
+</price>
+    </dividend_date>
+    <dividend_date date="1996-03-29">
+      <price>0.060000
+</price>
+    </dividend_date>
+  </exchange>
+</stock>

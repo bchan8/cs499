@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='utf-8'?>
+<stock source="yahoo finance">
+  <exchange market="nasdaq">
+    <dividend_date date="2014-02-14">
+      <price>0.175000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-11-26">
+      <price>0.175000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-08-26">
+      <price>0.175000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-05-20">
+      <price>0.175000
+</price>
+    </dividend_date>
+    <dividend_date date="2013-02-15">
+      <price>0.175000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-11-26">
+      <price>0.175000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-08-28">
+      <price>0.175000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-05-21">
+      <price>0.350000
+</price>
+    </dividend_date>
+    <dividend_date date="2012-02-21">
+      <price>0.500000
+</price>
+    </dividend_date>
+    <dividend_date date="2011-11-16">
+      <price>0.500000
+</price>
+    </dividend_date>
+    <dividend_date date="2011-08-29">
+      <price>0.500000
+</price>
+    </dividend_date>
+    <dividend_date date="2011-05-23">
+      <price>0.500000
+</price>
+    </dividend_date>
+    <dividend_date date="2011-02-15">
+      <price>0.500000
+</price>
+    </dividend_date>
+    <dividend_date date="2010-11-17">
+      <price>0.500000
+</price>
+    </dividend_date>
+    <dividend_date date="2010-08-20">
+      <price>0.500000
+</price>
+    </dividend_date>
+    <dividend_date date="2010-05-19">
+      <price>0.400000
+</price>
+    </dividend_date>
+    <dividend_date date="2010-02-17">
+      <price>0.300000
+</price>
+    </dividend_date>
+    <dividend_date date="2009-02-13">
+      <price>0.250000
+</price>
+    </dividend_date>
+    <dividend_date date="2008-11-13">
+      <price>0.500000
+</price>
+    </dividend_date>
+    <dividend_date date="2008-08-20">
+      <price>0.750000
+</price>
+    </dividend_date>
+    <dividend_date date="2008-05-22">
+      <price>0.750000
+</price>
+    </dividend_date>
+    <dividend_date date="2008-02-22">
+      <price>0.750000
+</price>
+    </dividend_date>
+    <dividend_date date="2007-11-21">
+      <price>0.500000
+</price>
+    </dividend_date>
+    <dividend_date date="2007-08-22">
+      <price>0.600000
+</price>
+    </dividend_date>
+    <dividend_date date="2007-05-23">
+      <price>0.600000
+</price>
+    </dividend_date>
+    <dividend_date date="2007-02-22">
+      <price>0.800000
+</price>
+    </dividend_date>
+    <dividend_date date="2006-11-22">
+      <price>1.000000
+</price>
+    </dividend_date>
+    <dividend_date date="2006-08-23">
+      <price>0.800000
+</price>
+    </dividend_date>
+    <dividend_date date="2006-05-24">
+      <price>1.000000
+</price>
+    </dividend_date>
+    <dividend_date date="2006-02-21">
+      <price>0.800000
+</price>
+    </dividend_date>
+    <dividend_date date="2005-11-17">
+      <price>0.500000
+</price>
+    </dividend_date>
+    <dividend_date date="2005-08-24">
+      <price>0.800000
+</price>
+    </dividend_date>
+    <dividend_date date="2005-05-17">
+      <price>1.500000
+</price>
+    </dividend_date>
+    <dividend_date date="2005-02-23">
+      <price>1.750000
+</price>
+    </dividend_date>
+    <dividend_date date="2004-11-10">
+      <price>1.000000
+</price>
+    </dividend_date>
+    <dividend_date date="2004-08-11">
+      <price>0.750000
+</price>
+    </dividend_date>
+    <dividend_date date="2004-05-20">
+      <price>2.000000
+</price>
+    </dividend_date>
+    <dividend_date date="2004-01-23">
+      <price>0.800000
+</price>
+    </dividend_date>
+    <dividend_date date="2003-10-23">
+      <price>0.523000
+</price>
+    </dividend_date>
+    <dividend_date date="2003-07-23">
+      <price>0.650000
+</price>
+    </dividend_date>
+    <dividend_date date="2003-04-23">
+      <price>1.190000
+</price>
+    </dividend_date>
+    <dividend_date date="2003-01-23">
+      <price>0.450000
+</price>
+    </dividend_date>
+    <dividend_date date="2002-07-23">
+      <price>0.450000
+</price>
+    </dividend_date>
+    <dividend_date date="2002-01-23">
+      <price>0.460000
+</price>
+    </dividend_date>
+    <dividend_date date="2001-10-23">
+      <price>0.450000
+</price>
+    </dividend_date>
+    <dividend_date date="2001-07-24">
+      <price>0.720000
+</price>
+    </dividend_date>
+    <dividend_date date="2001-04-25">
+      <price>1.390000
+</price>
+    </dividend_date>
+    <dividend_date date="2001-01-24">
+      <price>1.680000
+</price>
+    </dividend_date>
+    <dividend_date date="2000-10-24">
+      <price>1.170000
+</price>
+    </dividend_date>
+    <dividend_date date="2000-07-20">
+      <price>0.610000
+</price>
+    </dividend_date>
+    <dividend_date date="2000-04-25">
+      <price>0.440000
+</price>
+    </dividend_date>
+    <dividend_date date="2000-01-26">
+      <price>0.440000
+</price>
+    </dividend_date>
+    <dividend_date date="1999-10-22">
+      <price>0.450000
+</price>
+    </dividend_date>
+    <dividend_date date="1999-07-23">
+      <price>0.470000
+</price>
+    </dividend_date>
+    <dividend_date date="1999-04-22">
+      <price>0.515000
+</price>
+    </dividend_date>
+    <dividend_date date="1999-01-22">
+      <price>0.515000
+</price>
+    </dividend_date>
+    <dividend_date date="1998-10-22">
+      <price>0.530000
+</price>
+    </dividend_date>
+    <dividend_date date="1998-07-23">
+      <price>0.170000
+</price>
+    </dividend_date>
+    <dividend_date date="1998-04-23">
+      <price>0.170000
+</price>
+    </dividend_date>
+    <dividend_date date="1998-01-22">
+      <price>0.170000
+</price>
+    </dividend_date>
+    <dividend_date date="1997-10-23">
+      <price>0.170000
+</price>
+    </dividend_date>
+    <dividend_date date="1997-07-29">
+      <price>0.170000
+</price>
+    </dividend_date>
+    <dividend_date date="1997-04-23">
+      <price>0.170000
+</price>
+    </dividend_date>
+  </exchange>
+</stock>

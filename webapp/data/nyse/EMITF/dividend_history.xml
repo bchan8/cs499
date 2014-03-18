@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<stock source="yahoo finance">
+  <exchange market="nyse">
+    <dividend_date date="2008-05-15">
+      <price>1.930000
+</price>
+    </dividend_date>
+    <dividend_date date="2007-04-03">
+      <price>1.515000
+</price>
+    </dividend_date>
+    <dividend_date date="2005-12-30">
+      <price>1.110000
+</price>
+    </dividend_date>
+    <dividend_date date="2005-02-28">
+      <price>1.717000
+</price>
+    </dividend_date>
+  </exchange>
+</stock>
