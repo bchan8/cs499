@@ -101,13 +101,15 @@ def createXMLFile(list, stock_symbol, market):
     for dividend history
     creates a xml file in the format:
     
-    <root>
-        <stock symbol="APPL">
-            <dividend_date date="01/01/1990">
-                <price>some price</price>
-            </dividend_date>
+    
+        <stock source="yahoo finance">
+            <exchange market ="nyse">
+                <dividend_date date="01/01/1990">
+                    <price>some price</price>
+                </dividend_date>
+            </exchange>
         </stock>
-    </root>
+    
     
     """
     
